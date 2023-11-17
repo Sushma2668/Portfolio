@@ -365,14 +365,14 @@ h2{
 
 #project{
     position: relative;
-    left: 230px;
+    left: 290px;
     height: 1020px;
-    width: 1110px;
+    width: 1000px;
 }
 .back{
-/*     background-color: aquamarine; */
+    background-color: pink;
     height: 995px;
-    width: 100%;
+    width: 1000px;
 }
 .pro{
     text-align: center;
@@ -380,7 +380,7 @@ h2{
 .imgtext{
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .design1{
     border-top-left-radius: 20%;
